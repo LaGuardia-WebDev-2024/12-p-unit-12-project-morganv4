@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Delius&family=Poetsen+One&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
 html {
   background-color: white;
   padding-left: 20px;
@@ -10,5 +10,16 @@ img{
 }
 
 h1 {
-  font-family: "Poetsen One", sans-serif;
+  font-family: "Rouge Script", cursive;
+  
 }
+
+h3{ 
+font-style: italic;
+  font-size: 40px;
+  font-family: Courier New;
+  font-weight: 60;
+  }
+
+
+
